@@ -1,1 +1,2 @@
+----acts as reusable components or partials of our site----
 ----put your html & js file here----
